@@ -216,4 +216,4 @@ Outlast is offered as a full free version with all features and updates included
 Ready to face your fears? Download Outlast now and embark on a chilling adventure filled with psychological horror!
 
 ---
-**Last updated:** 2026-11-02 11:47:20 UTC
+**Last updated:** 2026-11-02 20:59:43 UTC
